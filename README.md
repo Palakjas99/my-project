@@ -1,2 +1,2 @@
-# example
-example
+MINI PROJECT 
+JUST TRY TO BUILD MY KNOWNLEGE
